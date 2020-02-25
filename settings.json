@@ -1,0 +1,31 @@
+{
+    "explorer.openEditors.visible": 0,
+    "window.zoomLevel": 0,
+    "workbench.startupEditor": "newUntitledFile",
+    "zenMode.restore": true,
+    "editor.multiCursorModifier": "ctrlCmd",
+    "explorer.confirmDragAndDrop": false,
+    "clojureVSCode.autoStartNRepl": false,
+    "problems.decorations.enabled": false,
+    "zenMode.centerLayout": false,
+    "java.errors.incompleteClasspath.severity": "ignore",
+    "editor.minimap.enabled": false,
+    "gitlens.currentLine.enabled": false,
+    "[javascriptreact]": {},
+    "workbench.editor.showTabs": true,
+    "emmet.includeLanguages": {
+        "javascript": "javascriptreact"
+    },
+    "workbench.editor.enablePreviewFromQuickOpen": false,
+    "gitlens.codeLens.recentChange.enabled": false,
+    "gitlens.codeLens.authors.enabled": false,
+    "gitlens.codeLens.enabled": false,
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "java.configuration.checkProjectSettingsExclusions": false,
+    "calva.paredit.defaultKeyMap": "none",
+    "liveshare.featureSet": "insiders",
+    "terminal.integrated.scrollback": 10000,
+    "gitlens.views.compare.files.layout": "tree",
+    "workbench.panel.defaultLocation": "right"
+}
