@@ -162,11 +162,15 @@
         "command": "java.test.explorer.runAll"
     },
     {
-        "key": "alt+cmd+3",
+        "key": "alt+cmd+5",
         "command": "workbench.action.positionPanelRight"
     },
     {
         "key": "alt+cmd+4",
         "command": "workbench.action.positionPanelBottom"
+    },
+    {
+        "key": "alt+cmd+3",
+        "command": "workbench.action.positionPanelLeft"
     }
 ]

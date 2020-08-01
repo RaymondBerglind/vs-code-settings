@@ -27,5 +27,11 @@
     "liveshare.featureSet": "insiders",
     "terminal.integrated.scrollback": 10000,
     "gitlens.views.compare.files.layout": "tree",
-    "workbench.panel.defaultLocation": "right"
+    "workbench.panel.defaultLocation": "right",
+    "java.configuration.maven.userSettings": "/Users/raymondberglind/.m2/settings.xml",
+    "calva.prettyPrintingOptions": {
+        "enabled": false,
+        "printEngine": "pprint",
+        "width": 120
+    }
 }
